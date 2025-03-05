@@ -1,5 +1,5 @@
 # mywebsite
-a website that I created with brief to get to know me sections and take a look at the research project that I have worked on
+A website created by myself, where it began as a class assignment in which I have created get to know me sections and give insight to a research project that I have worked on.
 
 -- Main Files -- 
 
@@ -37,5 +37,5 @@ The image files used are:
 
 -- Video -- 
 
-The video use is: 
+The video used is: 
 - goals.mp4
